@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd myapps
+python brightness.py
